@@ -1,0 +1,8 @@
+{
+  "target_id": "SAT-03-SLON",
+  "merkle_root": "0x4a8f90ee123b45cba99011223344556677889900aabbccddeeff001122334455",
+  "satellite_altitude_km": 842,
+  "satellite_velocity_kms": 6.2,
+  "hardware_status": "MUTATED_BY_RADIATION",
+  "error_stack": "EVM_ERR: Invalid state root expansion. Orbital drift detected."
+}
