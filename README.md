@@ -61,7 +61,7 @@ The agent operates on a unified 5-skill architecture bridging Web2 execution and
 
 ## 📊 R&D Validation & Phase 4 Profiling Artifacts
 
-This agent architecture directly incorporates testing findings from the **0G DA Phase 4 Stress-Test Campaign** (concluded Sept 15, 2026):
+This agent architecture directly incorporates testing findings from the **0G DA Phase 4 Stress-Test Campaign** (concluded Sept 14, 2026):
 
 * 📄 **Phase 4 Bug Report:** [`0g_labs_bug_report.md`](https://github.com/kirilks2026-maker/0g-da-phase4-adaptive-profiler/blob/main/0g_labs_bug_report.md)
 * 📉 **Raw Latency Logs (JSON):** [`benchmark_phase4_report.json`](https://github.com/kirilks2026-maker/0g-da-phase4-adaptive-profiler/blob/main/benchmark_phase4_report.json)
