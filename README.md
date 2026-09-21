@@ -3,7 +3,7 @@
 * **On-Chain Identity:** `Agent ID: #1000091` (ERC-8004 Architecture Token on 0G Galileo Testnet)
 * **Platform Identity:** `Agent Index: #33` (oimpact.ai Production Dashboard Entry)
 * **Authorized AI Operator:** `0x2f4846C62873fbf4721e815c11F2927F9a79FF25`
-* **Sovereign Ledger Core:** [`GroundRadarStressTester.sol`](https://github.com) 
+* **Sovereign Ledger Core:** [`GroundRadarStressTester.sol`](https://github.com/kirilks2026-maker/want-to-mars/tree/main/ground-radar-tester) 
   * **Verified Contract Address:** `0x6c965D4BD8EBA6098c6bbE4b6b9488bf8d3469Ee`
   * **EVM Network Target:** 0G Labs Galileo Testnet Layer 1
   * **Compiler Configuration:** Solidity v0.8.34 | Optimization: No | EVM: Osaka
