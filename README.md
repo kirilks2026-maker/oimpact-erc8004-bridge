@@ -36,6 +36,8 @@ The agent operates on a unified 5-skill architecture bridging Web2 execution and
          │
          ▼ (On-Chain Autonomous Recovery Loop)
 [ execute_on_chain_recovery() ──► Contract Call: initiateOnChainReboot() ]
+```
+
 ---
 
 ## ⚙️ Core Infrastructure Components
