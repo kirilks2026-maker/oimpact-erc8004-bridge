@@ -1,10 +1,13 @@
-# 🛰️ Cross-Chain DeAI Fault-Tolerance Bridge (ERC-8004 Architecture)
+## ⛓️ Core Ecosystem & Decentralized Identity
 
-> **On-Chain Identity:** `Agent ID: #1000091` (ERC-8004 Token on 0G Galileo Testnet)  
-> **Platform Identity:** `Agent Index: #33` (oimpact.ai Dashboard Entry)  
-> **Authorized AI Operator:** `0x2f4846C62873fbf4721e815c11F2927F9a79FF25`
+* **On-Chain Identity:** `Agent ID: #1000091` (ERC-8004 Architecture Token on 0G Galileo Testnet)
+* **Platform Identity:** `Agent Index: #33` (oimpact.ai Production Dashboard Entry)
+* **Authorized AI Operator:** `0x2f4846C62873fbf4721e815c11F2927F9a79FF25`
+* **Sovereign Ledger Core:** [`GroundRadarStressTester.sol`](https://github.com) 
+  * **Verified Contract Address:** `0x6c965D4BD8EBA6098c6bbE4b6b9488bf8d3469Ee`
+  * **EVM Network Target:** 0G Labs Galileo Testnet Layer 1
+  * **Compiler Configuration:** Solidity v0.8.34 | Optimization: No | EVM: Osaka
 
-An enterprise-grade, lightweight infrastructure layer designed for **0G Labs (Galileo Testnet Framework)**. This system establishes an autonomous bridge between decentralized storage layers and the **Oimpact AIverse Ecosystem**, processing telemetry stream anomalies under high-load degradation scenarios without human intervention.
 
 ---
 
