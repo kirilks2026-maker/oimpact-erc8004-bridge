@@ -25,19 +25,17 @@ The agent operates on a unified 5-skill architecture bridging Web2 execution and
 
 ## 🏗️ System Architecture & Data Flow
 
-<pre>
+```text
 [ 0G Storage Nodes ] ──► (Raw Telemetry Layer: qwen_38_max_kessler_cascade_matrix_layer_05.raw)
-│
-▼ (Scheduled Cron Windows: cron-builder)
+         │
+         ▼ (Scheduled Cron Windows: cron-builder)
 [ Sovereign Orbit Bridge (Python Runtime) ]
-│
-▼ (ERC-8004 Error Decoding Matrix: error-decoder / Qwen 3.8 Max)
+         │
+         ▼ (ERC-8004 Error Decoding Matrix: error-decoder / Qwen 3.8 Max)
 [ Anomaly Triggered: "MUTATED_BY_RADIATION" / Velocity < 7.8 km/s ]
-│
-▼ (On-Chain Autonomous Recovery Loop)
+         │
+         ▼ (On-Chain Autonomous Recovery Loop)
 [ execute_on_chain_recovery() ──► Contract Call: initiateOnChainReboot() ]
-<pre>
-
 ---
 
 ## ⚙️ Core Infrastructure Components
